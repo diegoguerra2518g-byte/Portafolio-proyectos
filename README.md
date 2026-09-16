@@ -4,7 +4,7 @@ Herramienta desarrollada en **Python** para automatizar la detección, limpieza,
 
 ##  Demostración en YouTube
 
-[▶ Ver demostración del proyecto P01](https://youtu.be/5P6tQB-oaxk?si=oCSIaQ_-IExEZkXD)
+[ Ver demostración del proyecto P01](https://youtu.be/5P6tQB-oaxk?si=oCSIaQ_-IExEZkXD)
 
 ## Objetivo
 
