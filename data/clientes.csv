@@ -1,0 +1,415 @@
+﻿id_cliente,nombre,documento,correo,telefono,ciudad,fecha_registro,edad,compras_12m,valor_compras_12m,estado_cliente,canal_origen
+C0001,Laura Sánchez,1000000001,laura.sanchez1@hotmail.com,3964999441,Bucaramanga,2025-10-09,49,31,2006333.0,Prospecto,Referido
+C0002,Daniela Méndez,1000000002,daniela.mendez2@empresa.co,3164446100,Medellín,2023-08-17,66,4,15108.0,Inactivo,Web
+C0003,Felipe Herrera,1000000003,felipe.herrera3@gmail.com,3147833472,Cali,2024-07-07,65,29,4379773.0,Inactivo,Evento
+C0004,Mariana López,1000000004,mariana.lopez4@outlook.com,3241960660,Bucaramanga,2026-02-01,32,9,620106.0,Inactivo,Tienda
+C0005,Juan Pérez,1000000005,juan.perez5@outlook.com,3593852432,Medellín,2025-06-05,74,33,6768411.0,Activo,Evento
+C0006,Sebastián Rodríguez,1000000006,sebastian.rodriguez6@outlook.com,3890064933,Bogotá,2025-02-26,38,34,2384090.0,Activo,Referido
+C0007,Juan Pérez,1000000007,juan.perez7@hotmail.com,3111565208,Barranquilla,2024-08-13,18,34,4112914.0,Activo,Evento
+C0008,Mariana López,1000000008,mariana.lopez8@empresa.co,3638013423,Medellín,2023-06-18,29,27,2069191.0,Activo,Tienda
+C0009,Sebastián Rodríguez,1000000009,sebastian.rodriguez9@hotmail.com,3142092713,Manizales,2026-02-26,23,28,4389081.0,Prospecto,Tienda
+C0010,Laura Sánchez,1000000010,laura.sanchez10@gmail.com,3060376989,Medellín,2024-08-14,30,34,7842536.0,Inactivo,WhatsApp
+C0011,Alejandro Silva,1000000011,alejandro.silva11@hotmail.com,3019588356,Bucaramanga,2024-01-30,31,24,2700022.0,Prospecto,Web
+C0012,Gabriela Moreno,1000000012,gabriela.moreno12@empresa.co,3570432933,Barranquilla,2023-06-05,78,33,4855027.0,Activo,Web
+C0013,Laura Sánchez,1000000013,laura.sanchez13@outlook.com,3656995452,Pereira,2023-10-22,71,21,4217416.0,Activo,WhatsApp
+C0014,Mateo Vargas,1000000014,mateo.vargas14@hotmail.com,3138198171,Bucaramanga,2026-01-19,54,36,6589743.0,Activo,Tienda
+C0015,Alejandro Silva,1000000015,alejandro.silva15@outlook.com,3914135333,Cali,2025-03-01,57,12,1851232.0,Activo,Tienda
+C0016,Santiago Ruiz,1000000016,santiago.ruiz16@gmail.com,3518242494,Cali,2024-04-21,27,19,7328221.0,Prospecto,Web
+C0017,  SEBASTIÁN RODRÍGUEZ  ,1000000017,sebastian.rodriguez17@gmail.com,3286964814,Cali,2024-04-28,47,3,1480632.0,Activo,Tienda
+C0018,Daniela Méndez,1000000018,daniela.mendez18@hotmail.com,3394097285,Bogotá,2025-09-04,26,27,297892.0,Inactivo,Evento
+C0019,Gabriela  Moreno,1000000019,gabriela.moreno19@hotmail.com,3474047172,Pereira,2024-05-28,45,14,3820465.0,Prospecto,Web
+C0020,Juan Pérez,1000000020,juan.perez20@empresa.co,3733040821,Medellín,2025-07-17,76,30,3194131.0,Prospecto,Tienda
+C0021,Paula Rojas,1000000021,paula.rojas21@gmail.com,3875826377,Barranquilla,2024-11-20,74,31,58226.0,Activo,Web
+C0022,Alejandro Silva,1000000022,alejandro.silva22@empresa.co,3429168097,Manizales,2023-05-30,66,19,2554346.0,Activo,Tienda
+C0023,Gabriela Moreno,1000000023,gabriela.moreno23@empresa.co,3487815947,barranquilla,2023-12-26,77,26,925452.0,Inactivo,Tienda
+C0024,Daniel Hernández,1000000024,daniel.hernandez24@gmail.com,3543233392,Cali,2024-01-21,22,29,5594900.0,Prospecto,Tienda
+C0025,Andrés Ramírez,1000000025,andres.ramirez25@hotmail.com,3063754102,Pereira,2024-01-23,31,31,1336940.0,Inactivo,Referido
+C0026,Mariana López,1000000026,mariana.lopez26@gmail.com,3751146362,Bogotá,2023-06-19,55,2,7182265.0,Activo,Web
+C0027,Mateo Vargas,1000000027,mateo.vargas27@hotmail.com,3441423006,Barranquilla,2024-11-20,62,33,1789495.0,Inactivo,Evento
+C0028,Mateo Vargas,1000000028,mateo.vargas28@empresa.co,3085884209,Bogotá,2026-07-05,49,11,2549688.0,Inactivo,Tienda
+C0029,Santiago Ruiz,1000000029,,3461917121,Bucaramanga,2025-02-18,56,13,417720.0,Activo,WhatsApp
+C0030,Mariana López,1000000030,mariana.lopez30@hotmail.com,3091961566,Barranquilla,2024-01-14,27,36,5767375.0,Inactivo,Tienda
+C0031,Tomás Guerrero,1000000031,tomas.guerrero31gmail.com,3616423458,Barranquilla,2023-11-07,50,29,3182739.0,Prospecto,Evento
+C0032,Juan Pérez,1000000032,juan.perez32@hotmail.com,3625038485,Pereira,2024-01-14,76,29,6012846.0,Activo,Web
+C0033,Laura Sánchez,1000000033,laura.sanchez33@empresa.co,3714248573,Cali,2023-02-28,41,25,6016380.0,Inactivo,WhatsApp
+C0034,  ISABELLA ORTIZ  ,1000000034,isabella.ortiz34@hotmail.com,3425801984,Bogotá,2024-01-13,67,19,7739222.0,Activo,WhatsApp
+C0035,Laura Sánchez,1000000035,laura.sanchez35@hotmail.com,3316568082,Manizales,2025-11-10,35,12,5710385.0,Activo,Referido
+C0036,Santiago Ruiz,1000000036,santiago.ruiz36@hotmail.com,3923873054,Barranquilla,2026-06-01,73,22,7774329.0,Inactivo,Referido
+C0037,Mateo Vargas,1000000037,mateo.vargas0@outlook.com,30012,Medellín,2026-07-08,45,14,418458.0,Prospecto,Referido
+C0038,Santiago  Ruiz,1000000038,santiago.ruiz1@hotmail.com,3071217488,Bogotá,2025-09-04,51,23,5706936.0,Activo,Tienda
+C0039,Daniela Méndez,1000000039,daniela.mendez2@empresa.co,3292038679,Manizales,2023-05-01,45,18,6269657.0,Activo,Tienda
+C0040,Daniela Méndez,1000000040,daniela.mendez3@outlook.com,3852611710,Bogotá,2025-06-08,21,10,7266555.0,Activo,Referido
+C0041,Natalia Díaz,1000000041,natalia.diaz4@gmail.com,3435528481,Bogta,2023-11-20,43,26,6499599.0,Inactivo,Web
+C0042,Daniel Hernández,1000000042,daniel.hernandez5@empresa.co,3153636005,Bucaramanga,2024-12-14,52,26,7546015.0,Inactivo,Tienda
+C0043,Sofía Martínez,1000000043,sofia.martinez6@gmail.com,sin telefono,Medellín,2024-10-30,75,26,3584865.0,Activo,Web
+C0044,Juan Pérez,1000000044,juan.perez7@outlook.com,3372136605,Cali,2026-05-27,59,32,6440233.0,Prospecto,Tienda
+C0045,Camila Torres,1000000045,camila.torres8@gmail.com,3418764026,Barranquilla,2025-09-18,27,25,4432430.0,Prospecto,Evento
+C0046,Laura Sánchez,1000000046,laura.sanchez9@empresa.co,3556569778,bogota,2024-11-05,74,27,118651.0,Inactivo,Evento
+C0047,Paula Rojas,1000000047,paula.rojas10@empresa.co,3380614622,Manizales,26/02/2026,41,13,2971775.0,Activo,Evento
+C0048,Mariana López,1000000048,mariana.lopez11@hotmail.com,3447203269,Manizales,2023-12-20,46,8,5321258.0,Inactivo,WhatsApp
+C0049,Laura Sánchez,1000000049,laura.sanchez12@empresa.co,3979537470,Barranquilla,2024-11-04,27,28,7783680.0,Prospecto,Referido
+C0050,Sofía Martínez,1000000050,sofia.martinez13@empresa.co,3079264000,Pereira,2023-05-31,45,19,5818150.0,Inactivo,WhatsApp
+C0051,  MATEO VARGAS  ,1000000051,mateo.vargas14@outlook.com,3868934063,Manizales,2024-06-27,51,27,1538688.0,Prospecto,WhatsApp
+C0052,Nicolás Castro,1000000052,nicolas.castro15@gmail.com,3437898129,Manizales,2024-12-14,21,13,3230351.0,Activo,Referido
+C0053,Mateo Vargas,1000000053,mateo.vargas16@outlook.com,3090586614,Bucaramanga,31/02/2026,62,20,3496366.0,Inactivo,Referido
+C0054,Mariana López,1000000054,mariana.lopez17@empresa.co,3838962799,Bucaramanga,2023-01-21,55,21,7174118.0,Activo,WhatsApp
+C0055,Paula Rojas,1000000055,paula.rojas18@gmail.com,3795820275,Medellín,2025-04-09,37,10,3042316.0,Inactivo,Referido
+C0056,Daniela Méndez,1000000056,daniela.mendez19@outlook.com,3271285419,Pereira,2025-06-03,35,4,2603332.0,Activo,WhatsApp
+C0057,Mateo  Vargas,1000000057,mateo.vargas20@hotmail.com,3465627310,Medellín,2024-11-07,66,22,6374109.0,Activo,Evento
+C0058,Tomás Guerrero,1000000058,,3057767292,Cali,2025-06-05,74,3,6700198.0,Inactivo,Tienda
+C0059,Tomás Guerrero,1000000059,tomas.guerrero22@outlook.com,3146448510,Barranquilla,2023-11-12,155,0,5155405.0,Activo,Referido
+C0060,Juan Pérez,1000000060,juan.perez23@hotmail.com,3346265194,Bucaramanga,2024-08-22,34,0,7820438.0,Prospecto,Referido
+C0061,Valentina Gómez,1000000061,valentina.gomez24@hotmail.com,3857755293,Manizales,2025-07-16,-4,18,3025621.0,Inactivo,Tienda
+C0062,Daniela Méndez,1000000062,daniela.mendez25empresa.co,3173849337,Pereira,2025-12-01,26,33,4018259.0,Inactivo,WhatsApp
+C0063,Tomás Guerrero,1000000063,tomas.guerrero26@gmail.com,3188697309,Medellín,2024-02-23,43,20,6721893.0,Inactivo,Tienda
+C0064,Laura Sánchez,1000000064,laura.sanchez27@outlook.com,3522239591,Pereira,2024-05-01,37,27,7286087.0,Inactivo,Tienda
+C0065,Isabella Ortiz,1000000065,isabella.ortiz28@outlook.com,3734503741,Manizales,2026-06-17,31,4,646911.0,Inactivo,Referido
+C0066,Santiago Ruiz,1000000066,santiago.ruiz29@empresa.co,3642556059,Cali,2025-08-03,31,35,5504951.0,Inactivo,Tienda
+C0067,Nicolás Castro,1000000067,nicolas.castro30@empresa.co,3324036690,Bucaramanga,2023-05-14,21,9,871795.0,Activo,Referido
+C0068,  TOMÁS GUERRERO  ,1000000068,tomas.guerrero31@gmail.com,3199726999,Cali,2024-09-28,57,18,5811142.0,Activo,Tienda
+C0069,Sebastián Rodríguez,1000000069,sebastian.rodriguez32@outlook.com,3534549491,cali,2024-11-14,20,14,7230849.0,Inactivo,Web
+C0070,Mariana López,1000000070,mariana.lopez33@gmail.com,3397579045,Bogotá,2025-07-08,64,5,687380.0,Prospecto,Referido
+C0071,Camila Torres,1000000071,camila.torres34@gmail.com,3638768953,Cali,2024-11-14,78,5,$4.447.629,Activo,Tienda
+C0072,Santiago Ruiz,1000000072,santiago.ruiz35@gmail.com,3055365359,Medellín,2026-01-03,49,21,4797979.0,Activo,Evento
+C0073,Sofía Martínez,1000000073,sofia.martinez36@gmail.com,3486643773,Bucaramanga,2024-01-21,22,2,-4732492.0,Prospecto,WhatsApp
+C0074,Felipe Herrera,1000000074,felipe.herrera0@empresa.co,30012,Medellín,2023-03-16,19,24,2709734.0,Inactivo,WhatsApp
+C0075,Santiago Ruiz,1000000075,santiago.ruiz1@gmail.com,3148281627,Bucaramanga,2025-12-06,77,24,3429716.0,Activo,Evento
+C0076,Tomás  Guerrero,1000000076,tomas.guerrero2@hotmail.com,3189603187,Bogotá,2024-09-11,70,26,7362072.0,Inactivo,Web
+C0077,Nicolás Castro,1000000077,nicolas.castro3@hotmail.com,3135068078,Barranquilla,2025-06-07,37,22,7967768.0,Prospecto,WhatsApp
+C0078,Gabriela Moreno,1000000078,gabriela.moreno4@gmail.com,3432370868,Manizales,2023-04-22,19,2,1015886.0,Prospecto,Web
+C0079,Nicolás Castro,1000000079,nicolas.castro5@hotmail.com,3852216557,Medellín,2025-07-23,66,32,2905870.0,ACTIVO ,WhatsApp
+C0080,Isabella Ortiz,1000000080,isabella.ortiz6@outlook.com,3953753091,Barranquilla,2023-11-03,35,3,124772.0,Inactivo,Tienda
+C0081,Andrés Ramírez,1000000081,andres.ramirez7@empresa.co,3092558385,Bogotá,2024-11-23,40,26,4175319.0,Inactivo,Tienda
+C0082,Paula Rojas,1000000082,paula.rojas8@hotmail.com,3441099188,Bogta,2025-09-01,39,18,3709919.0,Prospecto,Evento
+C0083,Isabella Ortiz,1000000083,isabella.ortiz9@hotmail.com,3669717393,Pereira,2025-01-07,54,36,2958096.0,Activo,
+C0084,Mariana López,1000000084,mariana.lopez10@empresa.co,3063239463,Bucaramanga,2024-07-22,20,2,6984748.0,Prospecto,WhatsApp
+C0085,  DANIELA MÉNDEZ  ,1000000085,daniela.mendez11@empresa.co,3630493929,Cali,2025-11-06,62,0,606783.0,Activo,WhatsApp
+C0086,Daniel Hernández,1000000086,daniel.hernandez12@outlook.com,sin telefono,Cali,2024-12-20,75,4,4081066.0,Activo,Referido
+C0087,Sebastián Rodríguez,1000000087,,3713596413,Bogotá,2024-03-16,76,12,5122696.0,Activo,Tienda
+C0088,Alejandro Silva,1000000088,alejandro.silva14@empresa.co,3051063586,Pereira,2024-09-15,19,20,7695030.0,Activo,Web
+C0089,Gabriela Moreno,1000000089,gabriela.moreno15@gmail.com,3790200284,Cali,2023-11-04,39,24,1987028.0,Prospecto,Tienda
+C0090,Paula Rojas,1000000090,paula.rojas16@empresa.co,3728752226,Bogotá,2024-05-10,75,8,1863956.0,Prospecto,Web
+C0091,Daniel Hernández,1000000091,daniel.hernandez17@outlook.com,3099731494,Barranquilla,2024-10-04,64,11,5541191.0,Activo,Evento
+C0092,Daniela Méndez,1000000092,daniela.mendez18@outlook.com,3683569173,manizales,2025-01-16,69,13,280246.0,Activo,Tienda
+C0093,Juan Pérez,1000000093,juan.perez19gmail.com,3121393579,Bogotá,2023-05-29,48,23,1861212.0,Activo,Tienda
+C0094,Alejandro Silva,1000000094,alejandro.silva20@hotmail.com,3155099739,Pereira,14/11/2025,62,16,5727402.0,Prospecto,Referido
+C0095,Tomás  Guerrero,1000000095,tomas.guerrero21@gmail.com,3862824793,Medellín,2025-06-08,26,7,6712799.0,Activo,Evento
+C0096,Felipe Herrera,1000000096,felipe.herrera22@gmail.com,3480167530,Pereira,2024-08-27,19,30,5956547.0,Activo,Web
+C0097,Gabriela Moreno,1000000097,gabriela.moreno23@hotmail.com,3117279467,Medellín,2023-05-28,62,35,7777817.0,Activo,Web
+C0098,Andrés Ramírez,1000000098,andres.ramirez24@outlook.com,3993872760,Manizales,2024-07-05,50,2,6023310.0,Activo,WhatsApp
+C0099,Laura Sánchez,1000000099,laura.sanchez25@gmail.com,3333843962,Pereira,2023-07-08,78,32,1128285.0,Activo,Web
+C0100,Natalia Díaz,1000000100,natalia.diaz26@gmail.com,3228009243,Barranquilla,2025-05-17,57,22,3724581.0,Inactivo,Referido
+C0101,Laura Sánchez,1000000101,laura.sanchez27@hotmail.com,3015305902,Cali,2025-01-01,26,12,3160668.0,Activo,Evento
+C0102,  FELIPE HERRERA  ,1000000102,felipe.herrera28@hotmail.com,3323119677,Medellín,2024-08-11,20,4,5731500.0,Inactivo,Evento
+C0103,Laura Sánchez,1000000103,laura.sanchez29@hotmail.com,3952463792,Bogotá,2024-08-29,44,35,7825022.0,Inactivo,WhatsApp
+C0104,Valentina Gómez,1000000104,valentina.gomez30@empresa.co,3160885545,Barranquilla,2023-01-25,55,32,739381.0,Activo,Tienda
+C0105,Juan Pérez,1000000105,juan.perez31@hotmail.com,3361068540,Barranquilla,2024-08-24,39,27,7001654.0,Inactivo,Evento
+C0106,Alejandro Silva,1000000106,alejandro.silva32@gmail.com,3513952932,Bogotá,31/02/2026,41,30,2129803.0,Prospecto,WhatsApp
+C0107,Nicolás Castro,1000000107,nicolas.castro33@gmail.com,3318214798,Cali,2023-05-03,67,0,3397539.0,Prospecto,Tienda
+C0108,Tomás Guerrero,1000000108,tomas.guerrero34@hotmail.com,3145005065,Barranquilla,2024-07-26,45,1,3048808.0,Inactivo,Referido
+C0109,Juan Pérez,1000000109,juan.perez35@hotmail.com,3146674743,Pereira,2025-07-19,29,30,2131648.0,Prospecto,Tienda
+C0110,Santiago Ruiz,1000000110,santiago.ruiz36@gmail.com,3358516690,Medellín,2024-08-26,38,20,2551130.0,Inactivo,Tienda
+C0111,Gabriela Moreno,1000000111,gabriela.moreno0@outlook.com,30012,Bucaramanga,2024-01-07,26,30,5980247.0,Inactivo,WhatsApp
+C0112,Isabella Ortiz,1000000112,isabella.ortiz1@outlook.com,3665187324,Manizales,2025-03-22,49,30,790479.0,Activo,WhatsApp
+C0113,Daniela Méndez,1000000113,daniela.mendez2@outlook.com,3935218578,Medellín,2025-08-13,18,31,1961582.0,Activo,Web
+C0114,Andrés  Ramírez,1000000114,andres.ramirez3@hotmail.com,3421693162,Manizales,2026-04-10,49,34,4196474.0,Activo,Referido
+C0115,Gabriela Moreno,1000000115,gabriela.moreno4@empresa.co,3511681791,medellin,2024-12-27,36,19,5270671.0,Inactivo,WhatsApp
+C0116,Alejandro Silva,1000000116,,3861859981,Bogotá,2024-10-04,67,13,7628520.0,Prospecto,Evento
+C0117,Tomás Guerrero,1000000117,tomas.guerrero6@empresa.co,3672452281,Pereira,2024-02-21,35,4,3767221.0,Activo,Referido
+C0118,Andrés Ramírez,1000000118,andres.ramirez7@gmail.com,3784187650,Bogotá,2023-07-09,155,23,2243506.0,Activo,Web
+C0119,  JUAN PÉREZ  ,1000000119,juan.perez8@hotmail.com,3318106314,Pereira,2024-10-18,56,18,5909981.0,Inactivo,Tienda
+C0120,Andrés Ramírez,1000000120,andres.ramirez9@empresa.co,3133603854,Bucaramanga,2025-02-18,45,9,770845.0,Prospecto,Tienda
+C0121,Mariana López,1000000121,mariana.lopez10@hotmail.com,3296538083,Barranquilla,2023-12-26,73,15,5806188.0,Inactivo,WhatsApp
+C0122,Mateo Vargas,1000000122,mateo.vargas11@hotmail.com,3618731850,Bogotá,2024-04-06,-4,26,3255795.0,Prospecto,Evento
+C0123,Juan Pérez,1000000123,juan.perez12@empresa.co,3926278990,Barranquilla,2023-03-21,39,20,4717825.0,Prospecto,Evento
+C0124,Paula Rojas,1000000124,paula.rojas13empresa.co,3761667339,Bogotá,2023-07-20,61,35,5834302.0,Inactivo,Evento
+C0125,Daniel Hernández,1000000125,daniel.hernandez14@outlook.com,3214529071,Medellín,2023-04-28,52,4,2441376.0,Activo,Web
+C0126,Juan Pérez,1000000126,juan.perez15@gmail.com,3812041908,Bogotá,2023-04-12,76,32,501871.0,Prospecto,Evento
+C0127,Natalia Díaz,1000000127,natalia.diaz16@empresa.co,3459628476,Bogotá,2023-11-20,29,3,7536618.0,Prospecto,Evento
+C0128,Sebastián Rodríguez,1000000128,sebastian.rodriguez17@empresa.co,3888647607,Bogotá,2025-04-15,51,10,1719141.0,Prospecto,WhatsApp
+C0129,Alejandro Silva,1000000129,alejandro.silva18@gmail.com,sin telefono,Bucaramanga,2024-03-28,47,23,7594855.0,Activo,Referido
+C0130,Daniela Méndez,1000000130,daniela.mendez19@empresa.co,3274780110,Barranquilla,2025-05-11,55,2,3131932.0,Prospecto,Web
+C0131,Alejandro Silva,1000000131,alejandro.silva20@outlook.com,3385906298,Barranquilla,2024-11-04,74,9,991791.0,Prospecto,Web
+C0132,Sofía Martínez,1000000132,sofia.martinez21@hotmail.com,3013910160,Barranquilla,2024-02-12,53,8,893439.0,Prospecto,Referido
+C0133,Juan  Pérez,1000000133,juan.perez22@empresa.co,3735692968,Manizales,2024-04-06,59,3,6860365.0,Activo,Referido
+C0134,Sofía Martínez,1000000134,sofia.martinez23@outlook.com,3750335824,Bogotá,2024-07-21,62,11,671962.0,Inactivo,Tienda
+C0135,Natalia Díaz,1000000135,natalia.diaz24@hotmail.com,3743375522,Bogotá,2023-12-09,37,0,3367103.0,Activo,WhatsApp
+C0136,  MARIANA LÓPEZ  ,1000000136,mariana.lopez25@hotmail.com,3845042993,Bucaramanga,2023-08-12,29,14,5322491.0,Activo,Web
+C0137,Santiago Ruiz,1000000137,santiago.ruiz26@hotmail.com,3186237255,Pereira,2025-01-02,47,27,7413253.0,Inactivo,Tienda
+C0138,Isabella Ortiz,1000000138,isabella.ortiz27@outlook.com,3813593604,medellin,2023-01-10,50,20,214909.0,Prospecto,Web
+C0139,Mateo Vargas,1000000139,mateo.vargas28@empresa.co,3650984468,Medellín,2025-05-01,45,10,6112275.0,Activo,WhatsApp
+C0140,Paula Rojas,1000000140,paula.rojas29@hotmail.com,3588550275,Manizales,2025-02-17,65,13,433423.0,Inactivo,Referido
+C0141,Andrés Ramírez,1000000141,andres.ramirez30@hotmail.com,3287702343,Bogotá,12/07/2025,23,33,7922897.0,Activo,Referido
+C0142,Valentina Gómez,1000000142,valentina.gomez31@outlook.com,3820568152,Cali,2024-08-25,57,33,$585.621,Prospecto,Web
+C0143,Camila Torres,1000000143,camila.torres32@empresa.co,3437685812,Barranquilla,2024-06-16,24,16,6170280.0,Activo,Evento
+C0144,Santiago Ruiz,1000000144,santiago.ruiz33@hotmail.com,3141050874,Manizales,2023-11-01,28,26,6088774.0,Inactivo,Referido
+C0145,Santiago Ruiz,1000000145,,3613191574,Manizales,2025-08-13,25,5,5915895.0,Prospecto,WhatsApp
+C0146,Valentina Gómez,1000000146,valentina.gomez35@hotmail.com,3140889951,Cali,2023-03-13,46,16,-1944966.0,Inactivo,Tienda
+C0147,Daniel Hernández,1000000147,daniel.hernandez36@empresa.co,3089850347,Bucaramanga,2024-09-28,30,11,3902995.0,Inactivo,Web
+C0148,Mariana López,1000000148,mariana.lopez0@gmail.com,30012,Bucaramanga,2023-01-30,75,6,7734770.0,Activo,Evento
+C0149,Laura Sánchez,1000000149,laura.sanchez1@empresa.co,3581694604,Pereira,2025-02-10,67,10,6312388.0,Activo,Evento
+C0150,Nicolás Castro,1000000150,nicolas.castro2@hotmail.com,3278591144,Bucaramanga,2025-12-17,33,8,574570.0,Prospecto,Web
+C0151,Paula Rojas,1000000151,paula.rojas3@gmail.com,3595569462,Bogotá,2026-07-23,23,1,99099.0,Inactivo,Evento
+C0152,Sebastián  Rodríguez,1000000152,sebastian.rodriguez4@outlook.com,3744838708,Bogotá,2025-04-29,47,2,7863425.0,Activo,Web
+C0153,  NICOLÁS CASTRO  ,1000000153,nicolas.castro5@gmail.com,3536520658,Medellín,2024-02-22,29,17,3682880.0,Inactivo,WhatsApp
+C0154,Laura Sánchez,1000000154,laura.sanchez6@outlook.com,3033327010,Medellín,2024-02-06,41,28,6857543.0,Prospecto,Referido
+C0155,Alejandro Silva,1000000155,alejandro.silva7gmail.com,3414299617,Pereira,2023-01-18,36,6,4462093.0,Prospecto,Tienda
+C0156,Isabella Ortiz,1000000156,isabella.ortiz8@empresa.co,3056744581,Barranquilla,2025-05-29,38,23,2409413.0,Prospecto,Referido
+C0157,Valentina Gómez,1000000157,valentina.gomez9@outlook.com,3769295320,Bogotá,2024-03-16,78,12,5783295.0,Inactivo,Tienda
+C0158,Valentina Gómez,1000000158,valentina.gomez10@gmail.com,3361957986,Bucaramanga,2024-10-29,63,31,6780200.0,PROSPECTO ,Web
+C0159,Juan Pérez,1000000159,juan.perez11@gmail.com,3131240031,Manizales,31/02/2026,22,8,7222324.0,Inactivo,WhatsApp
+C0160,Mateo Vargas,1000000160,mateo.vargas12@hotmail.com,3658544191,Manizales,2025-04-12,78,1,4579927.0,Inactivo,Evento
+C0161,Juan Pérez,1000000161,juan.perez13@hotmail.com,3271759412,medellin,2023-08-31,72,17,4950627.0,Prospecto,WhatsApp
+C0162,Mariana López,1000000162,mariana.lopez14@empresa.co,3724952316,Medellín,2025-12-30,20,15,4952635.0,Inactivo,Tienda
+C0163,Mateo Vargas,1000000163,mateo.vargas15@outlook.com,3569864288,Bogotá,2024-03-09,60,26,174089.0,Prospecto,Evento
+C0164,Andrés Ramírez,1000000164,andres.ramirez16@outlook.com,3881725123,Barranquilla,2023-11-08,74,19,4905940.0,Inactivo,WhatsApp
+C0165,Alejandro Silva,1000000165,alejandro.silva17@gmail.com,3771473036,Bucaramanga,2023-03-31,28,30,1410830.0,Prospecto,Tienda
+C0166,Nicolás Castro,1000000166,nicolas.castro18@hotmail.com,3333707886,Manizales,2023-07-14,57,10,2551115.0,Activo,
+C0167,Juan Pérez,1000000167,juan.perez19@empresa.co,3597898408,Manizales,2024-06-25,59,16,51193.0,Prospecto,Tienda
+C0168,Felipe Herrera,1000000168,felipe.herrera20@empresa.co,3680514657,Bogotá,2023-09-09,28,10,1053921.0,Activo,Tienda
+C0169,Andrés Ramírez,1000000169,andres.ramirez21@outlook.com,3998863341,Bucaramanga,2024-08-20,75,1,5384573.0,Inactivo,Tienda
+C0170,  NATALIA DÍAZ  ,1000000170,natalia.diaz22@gmail.com,3161356771,Pereira,2025-07-16,66,22,1320015.0,Activo,WhatsApp
+C0171,Andrés  Ramírez,1000000171,andres.ramirez23@hotmail.com,3036401546,Manizales,2023-11-03,76,2,5088398.0,Activo,Tienda
+C0172,Mateo Vargas,1000000172,mateo.vargas24@outlook.com,sin telefono,Barranquilla,2026-04-25,48,29,7781989.0,Activo,Web
+C0173,Valentina Gómez,1000000173,valentina.gomez25@gmail.com,3567519083,Medellín,2024-04-19,61,18,785898.0,Prospecto,WhatsApp
+C0174,Sofía Martínez,1000000174,,3554409096,Manizales,2026-06-13,70,19,3808476.0,Inactivo,Evento
+C0175,Valentina Gómez,1000000175,valentina.gomez27@hotmail.com,3434641327,Bogotá,2023-10-04,69,26,150473.0,Activo,WhatsApp
+C0176,Andrés Ramírez,1000000176,andres.ramirez28@empresa.co,3653952661,Cali,2026-05-28,38,22,1962187.0,Prospecto,Web
+C0177,Isabella Ortiz,1000000177,isabella.ortiz29@hotmail.com,3788433757,Bucaramanga,2023-04-25,155,1,4631288.0,Prospecto,Evento
+C0178,Laura Sánchez,1000000178,laura.sanchez30@empresa.co,3269707265,Medellín,2025-08-31,63,19,4123382.0,Inactivo,Tienda
+C0179,Nicolás Castro,1000000179,nicolas.castro31@gmail.com,3374146489,Cali,2026-03-06,52,1,5802313.0,Prospecto,Referido
+C0180,Valentina Gómez,1000000180,valentina.gomez32@gmail.com,3240495482,Barranquilla,2026-04-19,63,28,5270529.0,Inactivo,Referido
+C0181,Alejandro Silva,1000000181,alejandro.silva33@gmail.com,3233795874,Bogotá,2024-08-25,66,29,1532552.0,Inactivo,Web
+C0182,Nicolás Castro,1000000182,nicolas.castro34@gmail.com,3943550886,Pereira,2023-10-12,44,32,365855.0,Prospecto,WhatsApp
+C0183,Felipe Herrera,1000000183,felipe.herrera35@outlook.com,3897222465,Medellín,2023-03-30,-4,9,2671509.0,Prospecto,WhatsApp
+C0184,Sebastián Rodríguez,1000000184,sebastian.rodriguez36@hotmail.com,3978519981,medellin,2023-12-02,26,26,2377366.0,Inactivo,WhatsApp
+C0185,Natalia Díaz,1000000185,natalia.diaz0@empresa.co,30012,Pereira,2023-07-07,74,18,1419722.0,Inactivo,Web
+C0186,Juan Pérez,1000000186,juan.perez1empresa.co,3141215606,Bucaramanga,2024-06-18,63,6,5848547.0,Prospecto,Web
+C0187,  CAMILA TORRES  ,1000000187,camila.torres2@hotmail.com,3165235445,Cali,2023-07-30,59,11,2025842.0,Inactivo,Evento
+C0188,Daniela Méndez,1000000188,daniela.mendez3@empresa.co,3265116186,Cali,28/05/2024,21,23,6888829.0,Inactivo,Referido
+C0189,Mariana López,1000000189,mariana.lopez4@outlook.com,3446440913,Pereira,2024-07-10,29,36,2822868.0,Prospecto,Web
+C0190,Juan  Pérez,1000000190,juan.perez5@outlook.com,3624842209,Pereira,2026-07-18,43,20,1433941.0,Activo,Tienda
+C0191,Andrés Ramírez,1000000191,andres.ramirez6@gmail.com,3417959952,Medellín,2025-06-26,75,4,3565463.0,Inactivo,Referido
+C0192,Laura Sánchez,1000000192,laura.sanchez7@gmail.com,3638313617,Medellín,2025-06-15,36,10,4166015.0,Inactivo,WhatsApp
+C0193,Isabella Ortiz,1000000193,isabella.ortiz8@empresa.co,3642458426,Bucaramanga,2026-06-25,38,14,5682441.0,Activo,Web
+C0194,Juan Pérez,1000000194,juan.perez9@empresa.co,3359973112,Barranquilla,2026-04-16,70,33,7462167.0,Inactivo,Referido
+C0195,Daniel Hernández,1000000195,daniel.hernandez10@empresa.co,3114661037,Manizales,2025-03-19,45,24,3638812.0,Inactivo,Referido
+C0196,Sebastián Rodríguez,1000000196,sebastian.rodriguez11@outlook.com,3548624620,Medellín,2025-06-13,62,7,1010627.0,Inactivo,Tienda
+C0197,Natalia Díaz,1000000197,natalia.diaz12@gmail.com,3613383650,Medellín,2023-11-18,44,14,2533228.0,Activo,Web
+C0198,Alejandro Silva,1000000198,alejandro.silva13@gmail.com,3916751943,Manizales,2026-02-10,28,4,4508112.0,Prospecto,Web
+C0199,Laura Sánchez,1000000199,laura.sanchez14@hotmail.com,3580313036,Bogotá,2025-06-15,34,21,3874192.0,Inactivo,Tienda
+C0200,Isabella Ortiz,1000000200,isabella.ortiz15@outlook.com,3462951278,Barranquilla,2026-04-24,30,18,5816530.0,Prospecto,Evento
+C0201,Isabella Ortiz,1000000201,isabella.ortiz16@hotmail.com,3519292119,Cali,2024-01-15,61,30,7314613.0,Activo,WhatsApp
+C0202,Daniel Hernández,1000000202,daniel.hernandez17@hotmail.com,3299430610,Cali,2025-01-23,45,3,4683806.0,Inactivo,WhatsApp
+C0203,Paula Rojas,1000000203,,3813107317,Manizales,2025-08-05,66,12,7274889.0,Prospecto,Evento
+C0204,  SOFÍA MARTÍNEZ  ,1000000204,sofia.martinez19@outlook.com,3739655048,Pereira,2025-06-15,21,1,6593669.0,Activo,Tienda
+C0205,Laura Sánchez,1000000205,laura.sanchez20@empresa.co,3095739163,Bogta,2023-05-11,49,24,1727863.0,Prospecto,Tienda
+C0206,Nicolás Castro,1000000206,nicolas.castro21@outlook.com,3631603496,Bogotá,2023-12-29,50,14,2678121.0,Prospecto,Tienda
+C0207,Camila Torres,1000000207,camila.torres22@outlook.com,3415317460,bogota,2024-09-02,39,30,113760.0,Prospecto,Tienda
+C0208,Paula Rojas,1000000208,paula.rojas23@gmail.com,3935907839,Pereira,2026-06-16,73,12,1114555.0,Prospecto,Tienda
+C0209,Juan  Pérez,1000000209,juan.perez24@gmail.com,3270090549,Manizales,2024-12-20,66,33,1733381.0,Activo,Web
+C0210,Natalia Díaz,1000000210,natalia.diaz25@gmail.com,3495773898,Medellín,2024-06-09,62,34,1346012.0,Prospecto,Referido
+C0211,Isabella Ortiz,1000000211,isabella.ortiz26@empresa.co,3286790356,Bucaramanga,2024-07-02,31,24,107953.0,Inactivo,Evento
+C0212,Alejandro Silva,1000000212,alejandro.silva27@empresa.co,3228378286,Bogotá,31/02/2026,40,18,2342088.0,Activo,Referido
+C0213,Sebastián Rodríguez,1000000213,sebastian.rodriguez28@gmail.com,3053118034,Medellín,2023-01-16,65,29,$6.560.606,Inactivo,Web
+C0214,Alejandro Silva,1000000214,alejandro.silva29@outlook.com,3252388761,Pereira,2025-03-09,38,10,7829844.0,Inactivo,Referido
+C0215,Mariana López,1000000215,mariana.lopez30@gmail.com,sin telefono,Pereira,2024-12-31,65,32,5274128.0,Activo,Referido
+C0216,Juan Pérez,1000000216,juan.perez31@hotmail.com,3043659127,Pereira,2024-02-14,65,35,5217361.0,Inactivo,Referido
+C0217,Alejandro Silva,1000000217,alejandro.silva32outlook.com,3169694426,Cali,2026-04-14,60,10,2917491.0,Prospecto,Referido
+C0218,Isabella Ortiz,1000000218,isabella.ortiz33@empresa.co,3516896549,Bogotá,2024-12-18,77,9,3360952.0,Inactivo,Tienda
+C0219,Sebastián Rodríguez,1000000219,sebastian.rodriguez34@gmail.com,3250316809,Bucaramanga,2024-01-14,75,13,-6258311.0,Inactivo,WhatsApp
+C0220,Mateo Vargas,1000000220,mateo.vargas35@outlook.com,3396660032,Bogotá,2024-01-25,69,10,263698.0,Activo,Referido
+C0221,  DANIELA MÉNDEZ  ,1000000221,daniela.mendez36@empresa.co,3645997529,Bucaramanga,2024-10-29,69,14,5664711.0,Activo,Web
+C0222,Laura Sánchez,1000000222,laura.sanchez0@outlook.com,30012,Medellín,2023-01-02,60,34,2977290.0,Activo,Evento
+C0223,Sofía Martínez,1000000223,sofia.martinez1@gmail.com,3252538599,Manizales,2023-11-20,35,17,6261117.0,Activo,Web
+C0224,Daniel Hernández,1000000224,daniel.hernandez2@hotmail.com,3130872979,Bogotá,2023-12-06,69,12,3294761.0,Activo,WhatsApp
+C0225,Sofía Martínez,1000000225,sofia.martinez3@outlook.com,3079957336,Manizales,2025-04-15,32,14,4023631.0,Inactivo,WhatsApp
+C0226,Isabella Ortiz,1000000226,isabella.ortiz4@hotmail.com,3173750829,Bucaramanga,2026-02-08,28,6,653466.0,Inactivo,WhatsApp
+C0227,Alejandro Silva,1000000227,alejandro.silva5@outlook.com,3136882573,Cali,2025-02-06,62,17,5783709.0,Prospecto,Web
+C0228,Paula  Rojas,1000000228,paula.rojas6@empresa.co,3252540667,Barranquilla,2026-02-09,22,33,3803517.0,Activo,Referido
+C0229,Felipe Herrera,1000000229,felipe.herrera7@gmail.com,3326269236,Cali,2023-01-25,30,16,6717171.0,Prospecto,WhatsApp
+C0230,Felipe Herrera,1000000230,felipe.herrera8@gmail.com,3893052031,bogota,2024-02-08,48,3,7249774.0,Activo,Web
+C0231,Valentina Gómez,1000000231,valentina.gomez9@hotmail.com,3473378510,Manizales,2026-05-23,65,29,1681112.0,Prospecto,Tienda
+C0232,Laura Sánchez,1000000232,,3979356553,Medellín,2025-09-06,41,0,5795158.0,Activo,Web
+C0233,Natalia Díaz,1000000233,natalia.diaz11@hotmail.com,3120254036,Barranquilla,2026-01-25,35,32,7804168.0,Inactivo,Web
+C0234,Andrés Ramírez,1000000234,andres.ramirez12@empresa.co,3844614357,Pereira,2024-02-03,48,36,2660903.0,Prospecto,Tienda
+C0235,Gabriela Moreno,1000000235,gabriela.moreno13@gmail.com,3527776339,Pereira,06/06/2024,50,19,5489156.0,Inactivo,WhatsApp
+C0236,Alejandro Silva,1000000236,alejandro.silva14@outlook.com,3638471570,Bucaramanga,2023-03-29,155,36,3868687.0,Prospecto,Referido
+C0237,Gabriela Moreno,1000000237,gabriela.moreno15@hotmail.com,3253225506,Bogotá,2025-04-26,68,16,5301419.0,INACTIVO ,Evento
+C0238,  NATALIA DÍAZ  ,1000000238,natalia.diaz16@outlook.com,3912837004,Manizales,2025-08-11,66,18,6051261.0,Activo,Referido
+C0239,Paula Rojas,1000000239,paula.rojas17@gmail.com,3017515591,Pereira,2023-03-17,55,35,2157953.0,Inactivo,Tienda
+C0240,Sebastián Rodríguez,1000000240,sebastian.rodriguez18@gmail.com,3486064265,Pereira,2024-11-08,29,15,7911302.0,Prospecto,Referido
+C0241,Tomás Guerrero,1000000241,tomas.guerrero19@hotmail.com,3638321010,Pereira,2026-05-28,38,36,4248519.0,Prospecto,Tienda
+C0242,Mariana López,1000000242,mariana.lopez20@gmail.com,3018203616,Bucaramanga,2025-02-07,62,20,608628.0,Inactivo,Referido
+C0243,Paula Rojas,1000000243,paula.rojas21@hotmail.com,3967603608,Cali,2024-10-17,57,13,455440.0,Inactivo,Evento
+C0244,Natalia Díaz,1000000244,natalia.diaz22@empresa.co,3482245381,Bogotá,2026-03-11,-4,28,6063927.0,Prospecto,Evento
+C0245,Daniela Méndez,1000000245,daniela.mendez23@outlook.com,3638762565,Bucaramanga,2023-04-13,44,21,6996735.0,Activo,Tienda
+C0246,Sebastián Rodríguez,1000000246,sebastian.rodriguez24@outlook.com,3214263805,Barranquilla,2025-10-30,41,29,2185940.0,Activo,Referido
+C0247,Mariana  López,1000000247,mariana.lopez25@empresa.co,3124943709,Cali,2024-10-22,64,36,4500030.0,Prospecto,WhatsApp
+C0248,Gabriela Moreno,1000000248,gabriela.moreno26hotmail.com,3741163399,Cali,2025-09-08,24,12,7738242.0,Prospecto,Web
+C0249,Andrés Ramírez,1000000249,andres.ramirez27@hotmail.com,3527665485,Barranquilla,2025-10-09,73,30,6994243.0,Inactivo,
+C0250,Santiago Ruiz,1000000250,santiago.ruiz28@gmail.com,3451326167,Medellín,2025-07-25,70,27,6686324.0,Activo,Web
+C0251,Valentina Gómez,1000000251,valentina.gomez29@empresa.co,3196625528,Medellín,2025-08-27,71,12,7819176.0,Inactivo,Referido
+C0252,Daniel Hernández,1000000252,daniel.hernandez30@outlook.com,3894153896,Barranquilla,2023-10-14,51,21,2072934.0,Activo,WhatsApp
+C0253,Sofía Martínez,1000000253,sofia.martinez31@outlook.com,3714909379,medellin,2025-06-03,78,1,2666553.0,Prospecto,Evento
+C0254,Tomás Guerrero,1000000254,tomas.guerrero32@empresa.co,3297549619,Bucaramanga,2024-07-04,43,23,87814.0,Prospecto,Tienda
+C0255,  ALEJANDRO SILVA  ,1000000255,alejandro.silva33@outlook.com,3554747216,Barranquilla,2025-12-21,37,2,3907870.0,Inactivo,Tienda
+C0256,Mariana López,1000000256,mariana.lopez34@empresa.co,3474685696,Medellín,2023-04-22,56,12,5820232.0,Prospecto,Referido
+C0257,Gabriela Moreno,1000000257,gabriela.moreno35@outlook.com,3244847169,Bogotá,2024-10-01,31,5,4274193.0,Activo,Tienda
+C0258,Tomás Guerrero,1000000258,tomas.guerrero36@hotmail.com,sin telefono,Barranquilla,2025-08-18,50,19,1680077.0,Activo,Tienda
+C0259,Tomás Guerrero,1000000259,tomas.guerrero0@hotmail.com,30012,Cali,2025-07-24,26,29,6608761.0,Prospecto,Referido
+C0260,Valentina Gómez,1000000260,valentina.gomez1@gmail.com,3795621231,Bogotá,2023-08-23,46,27,7001031.0,Prospecto,Tienda
+C0261,Mateo Vargas,1000000261,,3888928685,Barranquilla,2025-06-11,53,20,559500.0,Inactivo,Tienda
+C0262,Paula Rojas,1000000262,paula.rojas3@gmail.com,3089035713,Medellín,2026-04-08,49,11,6717203.0,Activo,WhatsApp
+C0263,Camila Torres,1000000263,camila.torres4@hotmail.com,3396515629,Medellín,2023-08-01,46,3,7000682.0,Inactivo,Referido
+C0264,Sebastián Rodríguez,1000000264,sebastian.rodriguez5@empresa.co,3228873833,Bogotá,2025-08-01,23,33,3320263.0,Prospecto,Referido
+C0265,Isabella Ortiz,1000000265,isabella.ortiz6@gmail.com,3416134367,Bucaramanga,31/02/2026,27,15,4702447.0,Inactivo,Tienda
+C0266,Laura  Sánchez,1000000266,laura.sanchez7@outlook.com,3663840337,Medellín,2025-02-08,70,8,5393957.0,Activo,Referido
+C0267,Sebastián Rodríguez,1000000267,sebastian.rodriguez8@outlook.com,3426571270,Manizales,2025-09-03,37,17,5562566.0,Activo,Evento
+C0268,Sebastián Rodríguez,1000000268,sebastian.rodriguez9@gmail.com,3974038268,Pereira,2026-01-13,24,9,1451740.0,Inactivo,Web
+C0269,Laura Sánchez,1000000269,laura.sanchez10@empresa.co,3748781474,Bogotá,2024-09-20,48,9,5252826.0,Activo,Web
+C0270,Alejandro Silva,1000000270,alejandro.silva11@hotmail.com,3219361107,Bucaramanga,2026-02-18,47,17,6576238.0,Inactivo,Tienda
+C0271,Tomás Guerrero,1000000271,tomas.guerrero12@hotmail.com,3225796070,Bucaramanga,2025-10-15,67,8,4697501.0,Prospecto,Tienda
+C0272,  ALEJANDRO SILVA  ,1000000272,alejandro.silva13@empresa.co,3887788844,Bogotá,2025-10-19,46,6,4666613.0,Inactivo,Tienda
+C0273,Nicolás Castro,1000000273,nicolas.castro14@outlook.com,3923145249,Pereira,2024-11-15,52,36,4503985.0,Activo,Referido
+C0274,Sebastián Rodríguez,1000000274,sebastian.rodriguez15@empresa.co,3850070872,Bucaramanga,2026-02-13,56,16,5328624.0,Prospecto,Evento
+C0275,Laura Sánchez,1000000275,laura.sanchez16@gmail.com,3915298793,Medellín,2024-02-26,36,33,4723537.0,Activo,Web
+C0276,Nicolás Castro,1000000276,nicolas.castro17@outlook.com,3583144910,bogota,2024-12-16,45,14,1791098.0,Activo,WhatsApp
+C0277,Andrés Ramírez,1000000277,andres.ramirez18@outlook.com,3263771772,Cali,2023-08-15,50,30,2895933.0,Inactivo,Web
+C0278,Paula Rojas,1000000278,paula.rojas19@outlook.com,3648595081,Bogotá,2026-06-16,30,15,5676164.0,Prospecto,Tienda
+C0279,Daniela Méndez,1000000279,daniela.mendez20hotmail.com,3988245083,Cali,2025-10-30,28,36,4141213.0,Prospecto,Referido
+C0280,Paula Rojas,1000000280,paula.rojas21@outlook.com,3913078563,Bogotá,2024-04-01,65,2,5576492.0,Activo,Referido
+C0281,Andrés Ramírez,1000000281,andres.ramirez22@hotmail.com,3754862470,Cali,2026-05-20,32,14,4154022.0,Activo,Web
+C0282,Laura Sánchez,1000000282,laura.sanchez23@hotmail.com,3515316231,Bucaramanga,13/01/2025,58,24,7572669.0,Prospecto,Evento
+C0283,Isabella Ortiz,1000000283,isabella.ortiz24@hotmail.com,3777745505,Cali,2026-06-09,43,15,5673082.0,Inactivo,Web
+C0284,Andrés Ramírez,1000000284,andres.ramirez25@gmail.com,3472249122,Pereira,2024-01-28,22,27,$4.559.818,Prospecto,Evento
+C0285,Laura  Sánchez,1000000285,laura.sanchez26@hotmail.com,3895748540,Bogotá,2026-05-16,61,26,3149365.0,Activo,WhatsApp
+C0286,Daniela Méndez,1000000286,daniela.mendez27@outlook.com,3457628275,Bogotá,2025-02-25,54,26,5867927.0,Prospecto,Web
+C0287,Daniela Méndez,1000000287,daniela.mendez28@hotmail.com,3054688415,Cali,2023-07-06,72,0,7009973.0,Prospecto,Web
+C0288,Juan Pérez,1000000288,juan.perez29@gmail.com,3376350253,Bucaramanga,2023-01-04,29,20,5689646.0,Inactivo,Referido
+C0289,  GABRIELA MORENO  ,1000000289,gabriela.moreno30@gmail.com,3514007007,Barranquilla,2023-12-14,59,28,4395650.0,Inactivo,WhatsApp
+C0290,Isabella Ortiz,1000000290,,3452884565,Bucaramanga,2024-10-25,50,11,2082092.0,Prospecto,WhatsApp
+C0291,Natalia Díaz,1000000291,natalia.diaz32@hotmail.com,3993599500,Cali,2025-09-17,73,7,6850472.0,Prospecto,WhatsApp
+C0292,Sebastián Rodríguez,1000000292,sebastian.rodriguez33@gmail.com,3993209215,Bogotá,2023-04-27,35,7,-7613968.0,Prospecto,Referido
+C0293,Santiago Ruiz,1000000293,santiago.ruiz34@gmail.com,3472886010,Bucaramanga,2025-06-07,33,8,2937134.0,Prospecto,Tienda
+C0294,Laura Sánchez,1000000294,laura.sanchez35@outlook.com,3849909364,Medellín,2023-04-19,21,4,7909309.0,Prospecto,Tienda
+C0295,Mariana López,1000000295,mariana.lopez36@outlook.com,3527981126,Barranquilla,2025-11-30,155,4,5243932.0,Prospecto,Web
+C0296,Andrés Ramírez,1000000296,andres.ramirez0@empresa.co,30012,Barranquilla,2024-03-28,60,13,1115904.0,Activo,Referido
+C0297,Sofía Martínez,1000000297,sofia.martinez1@gmail.com,3835122579,Bogotá,2026-04-19,65,34,4795626.0,Prospecto,Evento
+C0298,Natalia Díaz,1000000298,natalia.diaz2@hotmail.com,3891664488,Pereira,2024-09-26,75,17,7562849.0,Inactivo,Referido
+C0299,Daniela Méndez,1000000299,daniela.mendez3@empresa.co,3646269875,pereira,2024-12-14,78,36,7354653.0,Prospecto,WhatsApp
+C0300,Laura Sánchez,1000000300,laura.sanchez4@gmail.com,3430955169,Manizales,2023-12-09,70,3,2422714.0,Inactivo,WhatsApp
+C0301,Felipe Herrera,1000000301,felipe.herrera5@gmail.com,sin telefono,Barranquilla,2023-10-22,38,1,540237.0,Activo,Referido
+C0302,Paula Rojas,1000000302,paula.rojas6@hotmail.com,3254645732,Manizales,2024-07-28,18,18,7316318.0,Inactivo,Evento
+C0303,Alejandro Silva,1000000303,alejandro.silva7@hotmail.com,3957911857,Bogotá,2025-09-03,71,25,6022019.0,Inactivo,Referido
+C0304,Gabriela  Moreno,1000000304,gabriela.moreno8@gmail.com,3715223416,Cali,2023-02-19,67,13,2052295.0,Activo,Web
+C0305,Andrés Ramírez,1000000305,andres.ramirez9@hotmail.com,3596112741,Cali,2025-11-13,-4,24,3794907.0,Prospecto,Web
+C0306,  ALEJANDRO SILVA  ,1000000306,alejandro.silva10@hotmail.com,3568900163,Barranquilla,2023-02-23,61,1,6144282.0,Prospecto,Referido
+C0307,Isabella Ortiz,1000000307,isabella.ortiz11@hotmail.com,3020333616,Manizales,2024-04-23,41,3,6470017.0,Activo,WhatsApp
+C0308,Tomás Guerrero,1000000308,tomas.guerrero12@gmail.com,3261653525,Bucaramanga,2023-07-14,57,31,6299204.0,Prospecto,Referido
+C0309,Valentina Gómez,1000000309,valentina.gomez13@empresa.co,3714128736,Cali,2024-01-12,50,1,3711878.0,Prospecto,Tienda
+C0310,Mariana López,1000000310,mariana.lopez14outlook.com,3440532653,Cali,2026-04-27,48,14,3669474.0,Activo,Evento
+C0311,Nicolás Castro,1000000311,nicolas.castro15@empresa.co,3169362310,Pereira,2023-09-25,59,27,406213.0,Activo,Tienda
+C0312,Sofía Martínez,1000000312,sofia.martinez16@hotmail.com,3758926063,Pereira,2023-11-21,58,35,6147185.0,Inactivo,Evento
+C0313,Felipe Herrera,1000000313,felipe.herrera17@hotmail.com,3650279083,Pereira,2025-07-04,76,2,782543.0,Inactivo,Evento
+C0314,Alejandro Silva,1000000314,alejandro.silva18@outlook.com,3218297172,Bucaramanga,2025-10-19,34,4,1920566.0,Inactivo,WhatsApp
+C0315,Daniela Méndez,1000000315,daniela.mendez19@empresa.co,3020744823,Bogotá,2023-12-10,28,35,3146450.0,Prospecto,Web
+C0316,Sofía Martínez,1000000316,sofia.martinez20@hotmail.com,3658471113,Pereira,2026-03-17,43,33,3443625.0,INACTIVO ,WhatsApp
+C0317,Alejandro Silva,1000000317,alejandro.silva21@empresa.co,3045111499,Bogotá,2025-12-21,50,20,7567333.0,Activo,Evento
+C0318,Camila Torres,1000000318,camila.torres22@empresa.co,3677852715,Manizales,31/02/2026,37,28,3210512.0,Prospecto,Evento
+C0319,Tomás Guerrero,1000000319,,3040334037,Manizales,2024-06-06,64,19,5465263.0,Inactivo,Evento
+C0320,Daniel Hernández,1000000320,daniel.hernandez24@empresa.co,3537916279,Pereira,2026-07-06,47,10,5395112.0,Activo,Web
+C0321,Natalia Díaz,1000000321,natalia.diaz25@hotmail.com,3342273817,Bogotá,2024-07-02,75,20,3898775.0,Inactivo,Tienda
+C0322,Daniela Méndez,1000000322,daniela.mendez26@outlook.com,3930383855,medellin,2024-05-29,51,18,3410349.0,Prospecto,Web
+C0323,Nicolás  Castro,1000000323,nicolas.castro27@outlook.com,3734862460,Bucaramanga,2025-01-24,26,19,5658136.0,Activo,Tienda
+C0324,Juan Pérez,1000000324,juan.perez28@outlook.com,3847905554,Pereira,2024-08-11,56,27,2868150.0,Prospecto,Referido
+C0325,Laura Sánchez,1000000325,laura.sanchez29@gmail.com,3181728047,Manizales,2024-08-11,47,14,3711438.0,Activo,Evento
+C0326,Paula Rojas,1000000326,paula.rojas30@gmail.com,3774869557,Cali,2023-10-28,71,20,4776658.0,Activo,Tienda
+C0327,Santiago Ruiz,1000000327,santiago.ruiz31@hotmail.com,3889046855,Cali,2023-06-11,23,9,6211402.0,Activo,Evento
+C0328,Daniel Hernández,1000000328,daniel.hernandez32@hotmail.com,3250291129,Bogta,2025-03-26,46,36,6829270.0,Activo,WhatsApp
+C0329,Camila Torres,1000000329,camila.torres33@empresa.co,3325315450,Medellín,22/01/2026,70,0,1340036.0,Inactivo,Web
+C0330,Sebastián Rodríguez,1000000330,sebastian.rodriguez34@empresa.co,3220110226,Pereira,2024-12-13,72,28,6259429.0,Prospecto,Tienda
+C0331,Alejandro Silva,1000000331,alejandro.silva35@outlook.com,3757615411,Cali,2024-02-04,69,16,886674.0,Activo,Evento
+C0332,Nicolás Castro,1000000332,nicolas.castro36@outlook.com,3696612453,Cali,2023-03-13,55,16,5493005.0,Activo,
+C0333,Sofía Martínez,1000000333,sofia.martinez0@outlook.com,30012,Bucaramanga,2026-06-17,23,16,7481251.0,Inactivo,Web
+C0334,Santiago Ruiz,1000000334,santiago.ruiz1@hotmail.com,3297773743,Pereira,2026-03-19,70,9,1657089.0,Prospecto,Tienda
+C0335,Juan Pérez,1000000335,juan.perez2@hotmail.com,3116104061,Manizales,2025-07-19,59,14,4775805.0,Inactivo,Referido
+C0336,Daniel Hernández,1000000336,daniel.hernandez3@gmail.com,3221815210,Medellín,2024-11-27,27,2,7881349.0,Inactivo,WhatsApp
+C0337,Santiago Ruiz,1000000337,santiago.ruiz4@outlook.com,3853455963,Barranquilla,2024-10-11,73,25,4730622.0,Activo,Referido
+C0338,Laura Sánchez,1000000338,laura.sanchez5@empresa.co,3212874112,Barranquilla,2026-06-11,78,1,1834101.0,Inactivo,Tienda
+C0339,Juan Pérez,1000000339,juan.perez6@gmail.com,3640756270,Cali,2025-01-14,73,23,4674661.0,Inactivo,Tienda
+C0340,  VALENTINA GÓMEZ  ,1000000340,valentina.gomez7@outlook.com,3114621377,Manizales,2024-03-10,49,29,1392470.0,Prospecto,Web
+C0341,Juan Pérez,1000000341,juan.perez8empresa.co,3893810192,Cali,2023-09-04,65,3,1075550.0,Activo,Referido
+C0342,Gabriela  Moreno,1000000342,gabriela.moreno9@hotmail.com,3039820031,Bucaramanga,2023-01-26,70,23,4361551.0,Activo,WhatsApp
+C0343,Santiago Ruiz,1000000343,santiago.ruiz10@hotmail.com,3613384657,Barranquilla,2026-07-15,68,11,1233227.0,Activo,Web
+C0344,Juan Pérez,1000000344,juan.perez11@outlook.com,sin telefono,Medellín,2024-09-04,75,36,7642667.0,Inactivo,WhatsApp
+C0345,Tomás Guerrero,1000000345,tomas.guerrero12@empresa.co,3393928701,medellin,2023-10-17,74,21,4645720.0,Activo,Tienda
+C0346,Juan Pérez,1000000346,juan.perez13@outlook.com,3227136628,Cali,2025-04-22,78,20,4871954.0,Prospecto,Evento
+C0347,Natalia Díaz,1000000347,natalia.diaz14@outlook.com,3799392252,Bucaramanga,2025-05-06,26,34,2321616.0,Inactivo,Referido
+C0348,Tomás Guerrero,1000000348,,3922241795,Medellín,2025-07-19,20,35,6594005.0,Inactivo,WhatsApp
+C0349,Mateo Vargas,1000000349,mateo.vargas16@empresa.co,3430810199,Cali,2024-08-25,23,33,2285770.0,Activo,Evento
+C0350,Nicolás Castro,1000000350,nicolas.castro17@gmail.com,3962863258,Barranquilla,2025-05-20,26,14,6975737.0,Prospecto,WhatsApp
+C0351,Mariana López,1000000351,mariana.lopez18@empresa.co,3035029598,Bogotá,2024-07-16,30,33,3989061.0,Inactivo,Web
+C0352,Alejandro Silva,1000000352,alejandro.silva19@empresa.co,3296027461,Barranquilla,2026-03-29,65,7,6676556.0,Activo,Web
+C0353,Gabriela Moreno,1000000353,gabriela.moreno20@gmail.com,3224009857,Pereira,2024-02-28,25,32,6917457.0,Prospecto,WhatsApp
+C0354,Andrés Ramírez,1000000354,andres.ramirez21@hotmail.com,3613760027,Pereira,2026-04-25,155,28,4582383.0,Inactivo,Evento
+C0355,Mariana López,1000000355,mariana.lopez22@gmail.com,3114593946,Barranquilla,2025-01-29,78,0,$4.321.434,Activo,Web
+C0356,Laura Sánchez,1000000356,laura.sanchez23@gmail.com,3235688993,Manizales,2024-02-16,75,12,3773467.0,Prospecto,Tienda
+C0357,  LAURA SÁNCHEZ  ,1000000357,laura.sanchez24@empresa.co,3194887370,Pereira,2026-01-08,66,28,3268780.0,Activo,Web
+C0358,Daniela Méndez,1000000358,daniela.mendez25@gmail.com,3714695230,Bogotá,2024-04-15,28,6,3488359.0,Inactivo,Web
+C0359,Juan Pérez,1000000359,juan.perez26@gmail.com,3552690326,Bogotá,2024-12-22,21,18,4923241.0,Activo,Web
+C0360,Valentina Gómez,1000000360,valentina.gomez27@gmail.com,3598861703,Bucaramanga,2024-11-05,65,35,4450077.0,Inactivo,WhatsApp
+C0361,Camila  Torres,1000000361,camila.torres28@gmail.com,3280961994,Manizales,2026-07-21,32,25,860333.0,Activo,Tienda
+C0362,Santiago Ruiz,1000000362,santiago.ruiz29@gmail.com,3326184152,Pereira,2024-07-16,31,9,2117663.0,Inactivo,Web
+C0363,Laura Sánchez,1000000363,laura.sanchez30@empresa.co,3665967032,Bucaramanga,2023-11-29,50,9,4165595.0,Activo,Tienda
+C0364,Mateo Vargas,1000000364,mateo.vargas31@empresa.co,3650991187,Bogotá,2023-04-04,32,14,600423.0,Activo,WhatsApp
+C0365,Daniela Méndez,1000000365,daniela.mendez32@gmail.com,3294849627,Barranquilla,2024-12-31,43,23,-6043032.0,Inactivo,Tienda
+C0366,Paula Rojas,1000000366,paula.rojas33@hotmail.com,3377889565,Cali,2024-11-22,-4,10,464798.0,Prospecto,Evento
+C0367,Andrés Ramírez,1000000367,andres.ramirez34@hotmail.com,3877037074,Barranquilla,2023-11-26,43,24,6261592.0,Inactivo,Web
+C0368,Mariana López,1000000368,mariana.lopez35@outlook.com,3512535034,barranquilla,2023-11-17,63,9,2174248.0,Prospecto,Referido
+C0369,Tomás Guerrero,1000000369,tomas.guerrero36@hotmail.com,3269712190,Bucaramanga,2025-12-09,52,11,443444.0,Inactivo,WhatsApp
+C0370,Sebastián Rodríguez,1000000370,sebastian.rodriguez0@empresa.co,30012,Bucaramanga,2023-04-04,56,1,2615795.0,Inactivo,WhatsApp
+C0371,Alejandro Silva,1000000371,alejandro.silva1@empresa.co,3373207197,Bogotá,31/02/2026,33,19,868737.0,Inactivo,Tienda
+C0372,Valentina Gómez,1000000372,valentina.gomez2hotmail.com,3446998257,Manizales,2025-01-15,19,26,6059749.0,Activo,WhatsApp
+C0373,Sebastián Rodríguez,1000000373,sebastian.rodriguez3@gmail.com,3197009718,Pereira,2024-06-26,37,23,724048.0,Activo,Tienda
+C0374,  ANDRÉS RAMÍREZ  ,1000000374,andres.ramirez4@hotmail.com,3697609604,Manizales,2025-04-30,25,13,172063.0,Prospecto,Web
+C0375,Paula Rojas,1000000375,paula.rojas5@outlook.com,3399322801,Bucaramanga,2025-03-23,53,2,1300418.0,Inactivo,Evento
+C0376,Tomás Guerrero,1000000376,tomas.guerrero6@empresa.co,3851112083,Bogotá,20/07/2023,38,6,3618247.0,Prospecto,Evento
+C0377,Sebastián Rodríguez,1000000377,,3686037917,Bogotá,2025-12-23,76,28,7843391.0,Prospecto,Web
+C0378,Sofía Martínez,1000000378,sofia.martinez8@empresa.co,3421923417,Cali,2023-09-24,78,26,1190985.0,Inactivo,WhatsApp
+C0379,Santiago Ruiz,1000000379,santiago.ruiz9@hotmail.com,3083355476,Bucaramanga,2025-07-08,48,30,5454457.0,Inactivo,Web
+C0380,Mateo  Vargas,1000000380,mateo.vargas10@empresa.co,3365920632,Pereira,2023-10-21,35,27,4906821.0,Activo,Evento
+C0381,Isabella Ortiz,1000000381,isabella.ortiz11@hotmail.com,3235184383,Bogotá,2025-02-05,61,9,873236.0,Prospecto,Referido
+C0382,Andrés Ramírez,1000000382,andres.ramirez12@hotmail.com,3562536653,Pereira,2025-06-11,74,29,6293821.0,Activo,WhatsApp
+C0383,Tomás Guerrero,1000000383,tomas.guerrero13@gmail.com,3616897550,Bogotá,2024-11-15,22,27,6327909.0,Activo,Evento
+C0384,Nicolás Castro,1000000384,nicolas.castro14@hotmail.com,3696085999,Bogotá,2024-02-01,54,12,2684729.0,Prospecto,Tienda
+C0385,Laura Sánchez,1000000385,laura.sanchez15@gmail.com,3356558263,Bogotá,2025-07-10,68,32,4423971.0,Activo,Tienda
+C0386,Daniel Hernández,1000000386,daniel.hernandez16@gmail.com,3595673991,Medellín,2026-04-18,40,7,6918254.0,Activo,Web
+C0387,Camila Torres,1000000387,camila.torres17@hotmail.com,sin telefono,Bogotá,2023-11-13,70,28,6810479.0,Activo,Web
+C0388,Sebastián Rodríguez,1000000388,sebastian.rodriguez18@gmail.com,3284772331,Manizales,2023-04-24,35,8,4851994.0,Prospecto,Tienda
+C0389,Mariana López,1000000389,mariana.lopez19@empresa.co,3164794571,Bucaramanga,2023-04-05,53,7,1306741.0,Activo,Web
+C0390,Gabriela Moreno,1000000390,gabriela.moreno20@gmail.com,3976704859,Manizales,2023-06-26,24,14,6495039.0,Activo,Evento
+C0391,  MARIANA LÓPEZ  ,1000000391,mariana.lopez21@outlook.com,3196316517,cali,2025-02-28,46,33,442766.0,Inactivo,Web
+C0392,Isabella Ortiz,1000000392,isabella.ortiz22@hotmail.com,3990153007,Manizales,2025-07-02,35,20,6328219.0,Inactivo,Tienda
+C0393,Tomás Guerrero,1000000393,tomas.guerrero23@outlook.com,3498016747,Manizales,2024-03-25,57,11,7327473.0,Activo,Referido
+C0394,Felipe Herrera,1000000394,felipe.herrera24@outlook.com,3336956083,Bucaramanga,2025-08-10,76,4,2508912.0,Prospecto,Evento
+C0395,Daniela Méndez,1000000395,daniela.mendez25@gmail.com,3493605474,Bogotá,2023-12-20,57,31,4822202.0,PROSPECTO ,Referido
+C0396,Valentina Gómez,1000000396,valentina.gomez26@empresa.co,3155618051,Pereira,2023-10-03,64,18,390526.0,Inactivo,Evento
+C0397,Laura Sánchez,1000000397,laura.sanchez27@outlook.com,3815370898,Cali,2026-07-03,41,23,4384915.0,Prospecto,Evento
+C0398,Sofía Martínez,1000000398,sofia.martinez28@hotmail.com,3633660144,Manizales,2025-05-28,45,20,2469800.0,Prospecto,Referido
+C0399,Paula  Rojas,1000000399,paula.rojas29@outlook.com,3920079621,Medellín,2025-08-14,31,27,2779773.0,Prospecto,Referido
+C0400,Santiago Ruiz,1000000400,santiago.ruiz30@gmail.com,3273566457,Pereira,2023-05-29,54,0,5272025.0,Activo,Evento
+C0015,Alejandro Silva,1000000015,alejandro.silva15@outlook.com,3914135333,Cali,2025-03-01,57,12,1851232.0,Activo,Tienda
+C0039,Daniela Méndez,1000000039,daniela.mendez2@empresa.co,3292038679,Manizales,2023-05-01,45,18,6269657.0,Activo,Tienda
+C0093,Juan Pérez,1000000093,juan.perez19gmail.com,3121393579,Bogotá,2023-05-29,48,23,1861212.0,Activo,Tienda
+C0145,Santiago Ruiz,1000000145,,3613191574,Manizales,2025-08-13,25,5,5915895.0,Prospecto,WhatsApp
+C0202,Daniel Hernández,1000000202,daniel.hernandez17@hotmail.com,3299430610,Cali,2025-01-23,45,3,4683806.0,Inactivo,WhatsApp
+C0268,Sebastián Rodríguez,1000000268,sebastian.rodriguez9@gmail.com,3974038268,Pereira,2026-01-13,24,9,1451740.0,Inactivo,Web
+C0320,Daniel Hernández,1000000320,daniel.hernandez24@empresa.co,3537916279,Pereira,2026-07-06,47,10,5395112.0,Activo,Web
+C0356,Laura Sánchez,1000000356,laura.sanchez23@gmail.com,3235688993,Manizales,2024-02-16,75,12,3773467.0,Prospecto,Tienda
+CX024, andrés ramírez ,1000000025,ANDRES.RAMIREZ25@HOTMAIL.COM,3063754102,Pereira,2024-01-23,31,31,1336940.0,Inactivo,Referido
+CX077, gabriela moreno ,1000000078,GABRIELA.MORENO4@GMAIL.COM,3432370868,Manizales,2023-04-22,19,2,1015886.0,Prospecto,Web
+CX123, paula rojas ,1000000124,PAULA.ROJAS13EMPRESA.CO,3761667339,Bogotá,2023-07-20,61,35,5834302.0,Inactivo,Evento
+CX188, mariana lópez ,1000000189,MARIANA.LOPEZ4@OUTLOOK.COM,3446440913,Pereira,2024-07-10,29,36,2822868.0,Prospecto,Web
+CX244, daniela méndez ,1000000245,DANIELA.MENDEZ23@OUTLOOK.COM,3638762565,Bucaramanga,2023-04-13,44,21,6996735.0,Activo,Tienda
+CX333, santiago ruiz ,1000000334,SANTIAGO.RUIZ1@HOTMAIL.COM,3297773743,Pereira,2026-03-19,70,9,1657089.0,Prospecto,Tienda
