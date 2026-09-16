@@ -2,7 +2,7 @@
 
 Herramienta desarrollada en **Python** para automatizar la detección, limpieza, normalización y corrección de errores en bases de datos tabulares. El proyecto procesa archivos **Excel y CSV**, aplica reglas de calidad de datos, identifica casos que requieren revisión humana y genera archivos corregidos junto con un reporte de auditoría.
 
-## 🎥 Demostración en YouTube
+##  Demostración en YouTube
 
 [▶ Ver demostración del proyecto P01](https://youtu.be/5P6tQB-oaxk?si=oCSIaQ_-IExEZkXD)
 
